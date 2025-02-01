@@ -1,2 +1,3 @@
-def call():
-    sh "touch file.txt"
+def call(){
+    echo "Hello World"
+}
